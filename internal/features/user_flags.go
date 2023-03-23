@@ -8,6 +8,7 @@ type UserFeatures struct {
 	VirtualMachine         VirtualMachineFeatures
 	VirtualMachineScaleSet VirtualMachineScaleSetFeatures
 	KeyVault               KeyVaultFeatures
+	StorageAccount         StorageAccountFeatures
 	TemplateDeployment     TemplateDeploymentFeatures
 	LogAnalyticsWorkspace  LogAnalyticsWorkspaceFeatures
 	ResourceGroup          ResourceGroupFeatures
@@ -40,6 +41,10 @@ type KeyVaultFeatures struct {
 	RecoverSoftDeletedKeys           bool
 	RecoverSoftDeletedCerts          bool
 	RecoverSoftDeletedSecrets        bool
+}
+
+type StorageAccountFeatures struct {
+	DoNotAccessDataPlane bool
 }
 
 type TemplateDeploymentFeatures struct {
