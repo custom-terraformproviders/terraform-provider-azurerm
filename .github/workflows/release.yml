@@ -70,7 +70,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-565f3cd0f964.js"></script>
   
 
-  <title>terraform-provider-scaffolding-framework/.goreleaser.yml at main · hashicorp/terraform-provider-scaffolding-framework · GitHub</title>
+  <title>terraform-provider-scaffolding-framework/release.yml at main · hashicorp/terraform-provider-scaffolding-framework · GitHub</title>
 
 
 
@@ -80,7 +80,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="DD82:FBC0:101542BD:108703EA:641C3978" data-pjax-transient="true"/><meta name="html-safe-nonce" content="834aba28c55327042e435968e3890fd340f1abc858f8b4b72c0fd6d9f0f1c967" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJERDgyOkZCQzA6MTAxNTQyQkQ6MTA4NzAzRUE6NjQxQzM5NzgiLCJ2aXNpdG9yX2lkIjoiNTU5MTQ5MTIzNTY5MTY0MTIwOCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImZyYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="4a5334ef1c8fcd197f2d26e4d99367583c4555ec53c9d71b979b8e335e883022" data-pjax-transient="true"/>
+  <meta name="request-id" content="C415:0CCE:1006989D:1078CB0D:641C39B1" data-pjax-transient="true"/><meta name="html-safe-nonce" content="460ca4148a14f83c2fde6b0f6423e3b11dd9fe05f5d9112d29dac2b091ea0d97" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDNDE1OjBDQ0U6MTAwNjk4OUQ6MTA3OENCMEQ6NjQxQzM5QjEiLCJ2aXNpdG9yX2lkIjoiMTk4Mjc1MzQwODg1Njg5Nzk2OSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImZyYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="c281be027b95c5954f1ca6089872e5c08db0d5a6e962c1e0200b30007852be80" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:433145043" data-turbo-transient>
@@ -114,13 +114,13 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Quick start repository for creating a Terraform provider using terraform-plugin-framework - terraform-provider-scaffolding-framework/.goreleaser.yml at main · hashicorp/terraform-provider-scaffolding-framework">
+      <meta name="description" content="Quick start repository for creating a Terraform provider using terraform-plugin-framework - terraform-provider-scaffolding-framework/release.yml at main · hashicorp/terraform-provider-scaffolding-framework">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/21729f8f7528682857efc2bcc9df3923ff5a56dcee26293b3ecddad98d3261fc/hashicorp/terraform-provider-scaffolding-framework" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="terraform-provider-scaffolding-framework/.goreleaser.yml at main · hashicorp/terraform-provider-scaffolding-framework" /><meta name="twitter:description" content="Quick start repository for creating a Terraform provider using terraform-plugin-framework - terraform-provider-scaffolding-framework/.goreleaser.yml at main · hashicorp/terraform-provider-scaffoldi..." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/21729f8f7528682857efc2bcc9df3923ff5a56dcee26293b3ecddad98d3261fc/hashicorp/terraform-provider-scaffolding-framework" /><meta property="og:image:alt" content="Quick start repository for creating a Terraform provider using terraform-plugin-framework - terraform-provider-scaffolding-framework/.goreleaser.yml at main · hashicorp/terraform-provider-scaffoldi..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="terraform-provider-scaffolding-framework/.goreleaser.yml at main · hashicorp/terraform-provider-scaffolding-framework" /><meta property="og:url" content="https://github.com/hashicorp/terraform-provider-scaffolding-framework" /><meta property="og:description" content="Quick start repository for creating a Terraform provider using terraform-plugin-framework - terraform-provider-scaffolding-framework/.goreleaser.yml at main · hashicorp/terraform-provider-scaffoldi..." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/21729f8f7528682857efc2bcc9df3923ff5a56dcee26293b3ecddad98d3261fc/hashicorp/terraform-provider-scaffolding-framework" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="terraform-provider-scaffolding-framework/release.yml at main · hashicorp/terraform-provider-scaffolding-framework" /><meta name="twitter:description" content="Quick start repository for creating a Terraform provider using terraform-plugin-framework - terraform-provider-scaffolding-framework/release.yml at main · hashicorp/terraform-provider-scaffolding-f..." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/21729f8f7528682857efc2bcc9df3923ff5a56dcee26293b3ecddad98d3261fc/hashicorp/terraform-provider-scaffolding-framework" /><meta property="og:image:alt" content="Quick start repository for creating a Terraform provider using terraform-plugin-framework - terraform-provider-scaffolding-framework/release.yml at main · hashicorp/terraform-provider-scaffolding-f..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="terraform-provider-scaffolding-framework/release.yml at main · hashicorp/terraform-provider-scaffolding-framework" /><meta property="og:url" content="https://github.com/hashicorp/terraform-provider-scaffolding-framework" /><meta property="og:description" content="Quick start repository for creating a Terraform provider using terraform-plugin-framework - terraform-provider-scaffolding-framework/release.yml at main · hashicorp/terraform-provider-scaffolding-f..." />
       
     <link rel="assets" href="https://github.githubassets.com/">
 
@@ -149,7 +149,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.goreleaser.yml" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.github/workflows/release.yml" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-out env-production page-responsive page-blob">
 
 
@@ -204,7 +204,7 @@
         <div class="flex-1">
           <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
             class="d-inline-block d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.goreleaser.yml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="80d271e152c6f2eed20aeb58c107f313fb0b50e2f9d50a9464f48b9fd3e07b65"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.github/workflows/release.yml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5d922341641a9a97b13233a2cd1372cbeaf40992d98700d158fb8a73e122568a"
           >
             Sign&nbsp;up
           </a>
@@ -579,7 +579,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="1ZUF0sCsOiI9HpIFeWznLMqS66Q2zEr2FuGCpF3WCk9d0ZXDGvgBLBW9n9CpKESNdWs85YKyNcBomDC4JArzIw==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="HTH5Q5Ppz8N+pBQ9BOT+yBalrnNQ9idxf6rWAbnbbFPfFxBhsmf6pN9ttc1VOuGRsQti2aA0To8JzX+xOgaigw==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -759,9 +759,9 @@
             </div>
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
-            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fhashicorp%2Fterraform-provider-scaffolding-framework%2Fblob%2Fmain%2F.goreleaser.yml"
+            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fhashicorp%2Fterraform-provider-scaffolding-framework%2Fblob%2Fmain%2F.github%2Fworkflows%2Frelease.yml"
               class="HeaderMenu-link HeaderMenu-link--sign-in flex-shrink-0 no-underline d-block d-lg-inline-block border border-lg-0 rounded rounded-lg-0 p-2 p-lg-0"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.goreleaser.yml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7de866f72f27c3d63a876dea5498bdd5f3bccebfcc3a68c58a79f5fa649333e8"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.github/workflows/release.yml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="998be7dfcd34cf0982a2c2f5bfb035215ece8485e09def82acedc182e697811c"
               data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
               Sign in
             </a>
@@ -769,7 +769,7 @@
 
             <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=hashicorp%2Fterraform-provider-scaffolding-framework"
               class="HeaderMenu-link HeaderMenu-link--sign-up flex-shrink-0 d-none d-lg-inline-block no-underline border color-border-default rounded px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.goreleaser.yml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7de866f72f27c3d63a876dea5498bdd5f3bccebfcc3a68c58a79f5fa649333e8"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.github/workflows/release.yml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="998be7dfcd34cf0982a2c2f5bfb035215ece8485e09def82acedc182e697811c"
               data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
             >
               Sign up
@@ -878,13 +878,13 @@
       
 
   <li>
-            <a href="/login?return_to=%2Fhashicorp%2Fterraform-provider-scaffolding-framework" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.goreleaser.yml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="717e7499e76a68576e67d1e0c94bb2dc9b047b493b84c09a68c45a756af6e724" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+            <a href="/login?return_to=%2Fhashicorp%2Fterraform-provider-scaffolding-framework" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.github/workflows/release.yml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ad38af52450f107c454bac707b24a038b9cb3b1f081fe4721e5f140397c4c0b4" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
 </a>  </li>
 
   <li>
-          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fhashicorp%2Fterraform-provider-scaffolding-framework" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:433145043,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.goreleaser.yml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b8fa03996bae6f15d0de0a2c05dc9aa36a97b428d93820d09c9d316da7063c81" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fhashicorp%2Fterraform-provider-scaffolding-framework" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:433145043,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.github/workflows/release.yml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="da4381a2e424f4b1117c7f1d85a6a3e19d768942d88baf587b46b6088e7984fc" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
     <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="33" data-view-component="true" class="Counter">33</span>
@@ -893,7 +893,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2Fhashicorp%2Fterraform-provider-scaffolding-framework" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:433145043,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.goreleaser.yml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e1a53fcd924da77ad5367d6b1c79c11d681bb794166a5876d92779949525a68d" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+        <a href="/login?return_to=%2Fhashicorp%2Fterraform-provider-scaffolding-framework" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:433145043,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.github/workflows/release.yml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a900690602702dee1b245a0b6a53f1636f248446eb0e3a035d76215c3b2f42b1" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1051,7 +1051,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/hashicorp/terraform-provider-scaffolding-framework/blob/be04f087501bd4bac376a608fbb906519d450905/.goreleaser.yml">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/hashicorp/terraform-provider-scaffolding-framework/blob/be04f087501bd4bac376a608fbb906519d450905/.github/workflows/release.yml">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1059,7 +1059,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:433145043,&quot;originating_url&quot;:&quot;https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.goreleaser.yml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cb04dfe9a75a1ea47182df053c1bec874ba248793f236e399498cbd32dae1a25">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:433145043,&quot;originating_url&quot;:&quot;https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.github/workflows/release.yml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a584d7df21f842cdee93e23f42b1c4ee5a68e351e6b2be5682c4fa2180a47186">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -1140,7 +1140,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/{{ urlEncodedRefName }}/.goreleaser.yml" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/{{ urlEncodedRefName }}/.github/workflows/release.yml" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -1182,7 +1182,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/{{ urlEncodedRefName }}/.goreleaser.yml" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/{{ urlEncodedRefName }}/.github/workflows/release.yml" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -1243,9 +1243,10 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/hashicorp/terraform-provider-scaffolding-framework"><span>terraform-provider-scaffolding-framework</span></a></span></span><span class="separator">/</span><strong class="final-path">.goreleaser.yml</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/hashicorp/terraform-provider-scaffolding-framework"><span>terraform-provider-scaffolding-framework</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/hashicorp/terraform-provider-scaffolding-framework/tree/main/.github"><span>.github</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/hashicorp/terraform-provider-scaffolding-framework/tree/main/.github/workflows"><span>workflows</span></a></span><span class="separator">/</span><strong class="final-path">release.yml</strong>
   </h2>
-    <a href="/hashicorp/terraform-provider-scaffolding-framework/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
+      <a href="/hashicorp/terraform-provider-scaffolding-framework/actions/workflows/release.yml" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-view-component="true" class="btn mr-2 d-none d-md-block">    View runs
+</a>    <a href="/hashicorp/terraform-provider-scaffolding-framework/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
     <summary role="button" data-view-component="true" class="btn">    <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
@@ -1253,8 +1254,11 @@
 </svg>
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
+          <li class="d-block d-md-none" >
+            <a class="dropdown-item d-flex flex-items-baseline" href="/hashicorp/terraform-provider-scaffolding-framework/actions/workflows/release.yml">View runs</a>
+          </li>
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:433145043,&quot;originating_url&quot;:&quot;https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.goreleaser.yml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e10f075829b9fbd45f23984f445d9110b53aeb5dbfb56625b5d0c0e735c8f5ad" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/hashicorp/terraform-provider-scaffolding-framework/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:433145043,&quot;originating_url&quot;:&quot;https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/main/.github/workflows/release.yml&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c21d17041b23d1dfc7368ce71b37a0dc8261827c5265485d4236a1fcd4f2ff57" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/hashicorp/terraform-provider-scaffolding-framework/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -1266,13 +1270,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value=".goreleaser.yml" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value=".github/workflows/release.yml" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/be04f087501bd4bac376a608fbb906519d450905/.goreleaser.yml" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/hashicorp/terraform-provider-scaffolding-framework/blob/be04f087501bd4bac376a608fbb906519d450905/.github/workflows/release.yml" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1303,17 +1307,138 @@
     <include-fragment src="/hashicorp/terraform-provider-scaffolding-framework/spoofed_commit_check/be04f087501bd4bac376a608fbb906519d450905" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/hashicorp/terraform-provider-scaffolding-framework/contributors/main/.goreleaser.yml" class="commit-loader">
-    <div class="Box-header d-flex flex-items-center">
-      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-    </div>
+  
+  <div class="Box-header Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="contributor" href="/apps/dependabot"><img class="avatar" src="https://avatars.githubusercontent.com/in/29110?s=48&amp;v=4" width="24" height="24" alt="@dependabot" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold Link--primary" rel="contributor" href="/apps/dependabot">dependabot</a>
 
-    <div class="Box-body d-flex flex-items-center" >
-      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
-    </div>
-</include-fragment></div>
+              <span class="markdown-title">
+                <a data-pjax="true" title="Bump actions/setup-go from 3.5.0 to 4.0.0 (#134)
+
+Bumps [actions/setup-go](https://github.com/actions/setup-go) from 3.5.0 to 4.0.0.
+- [Release notes](https://github.com/actions/setup-go/releases)
+- [Commits](https://github.com/actions/setup-go/compare/6edd4406fa81c3da01a34fa6f6343087c207a568...4d34df0c2316fe8122ab82dc22947d607c0c91f9)
+
+---
+updated-dependencies:
+- dependency-name: actions/setup-go
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;" class="Link--secondary" href="/hashicorp/terraform-provider-scaffolding-framework/commit/80133b8c49689740a585e5cbdbbe22fe1c77eac6">Bump actions/setup-go from 3.5.0 to 4.0.0 (</a><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1627173203" data-permission-text="Title is private" data-url="https://github.com/hashicorp/terraform-provider-scaffolding-framework/issues/134" data-hovercard-type="pull_request" data-hovercard-url="/hashicorp/terraform-provider-scaffolding-framework/pull/134/hovercard" href="https://github.com/hashicorp/terraform-provider-scaffolding-framework/pull/134">#134</a><a data-pjax="true" title="Bump actions/setup-go from 3.5.0 to 4.0.0 (#134)
+
+Bumps [actions/setup-go](https://github.com/actions/setup-go) from 3.5.0 to 4.0.0.
+- [Release notes](https://github.com/actions/setup-go/releases)
+- [Commits](https://github.com/actions/setup-go/compare/6edd4406fa81c3da01a34fa6f6343087c207a568...4d34df0c2316fe8122ab82dc22947d607c0c91f9)
+
+---
+updated-dependencies:
+- dependency-name: actions/setup-go
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;" class="Link--secondary" href="/hashicorp/terraform-provider-scaffolding-framework/commit/80133b8c49689740a585e5cbdbbe22fe1c77eac6">)</a>
+              </span>
+          </div>
+
+            <span class="hidden-text-expander ml-1 flex-shrink-0">
+              <button type="button" class="ellipsis-expander js-details-target" aria-expanded="false">&hellip;</button>
+            </span>
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/hashicorp/terraform-provider-scaffolding-framework/commit/80133b8c49689740a585e5cbdbbe22fe1c77eac6/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
+        </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono Link--secondary" href="/hashicorp/terraform-provider-scaffolding-framework/commit/80133b8c49689740a585e5cbdbbe22fe1c77eac6" data-pjax>80133b8</a>
+            <span itemprop="dateModified"><relative-time datetime="2023-03-16T17:50:32Z" class="no-wrap">Mar 16, 2023</relative-time></span>
+          </span>
+
+          <a data-pjax href="/hashicorp/terraform-provider-scaffolding-framework/commits/main/.github/workflows/release.yml" class="ml-3 no-wrap Link--primary no-underline">
+            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+    <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path>
+</svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+        <div class="Details-content--hidden ml-5 mt-2"><pre class="mt-2 f6 ws-pre-wrap">Bumps [actions/setup-go](<a href="https://github.com/actions/setup-go">https://github.com/actions/setup-go</a>) from 3.5.0 to 4.0.0.
+- [Release notes](<a href="https://github.com/actions/setup-go/releases">https://github.com/actions/setup-go/releases</a>)
+- [Commits](<a class="commit-link" href="https://github.com/actions/setup-go/compare/6edd4406fa81c3da01a34fa6f6343087c207a568...4d34df0c2316fe8122ab82dc22947d607c0c91f9">actions/setup-go@<tt>6edd440...4d34df0</tt></a>)
+
+---
+updated-dependencies:
+- dependency-name: actions/setup-go
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</pre></div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
+      <summary class="Link--primary">
+        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
+    <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
+</svg>
+        <strong>5</strong>
+        
+        contributors
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/hashicorp/terraform-provider-scaffolding-framework/contributors-list/main/.github/workflows/release.yml" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment>
+          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+        </include-fragment>
+      </details-dialog>
+    </details>
+      <span class="">
+    <a class="avatar-link" href="/hashicorp/terraform-provider-scaffolding-framework/commits/main/.github/workflows/release.yml?author=dependabot">
+      <img class="avatar mr-2" src="https://avatars.githubusercontent.com/in/29110?s=48&amp;v=4" width="24" height="24" alt="@dependabot" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/bflad/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hashicorp/terraform-provider-scaffolding-framework/commits/main/.github/workflows/release.yml?author=bflad">
+      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/189114?s=48&amp;v=4" width="24" height="24" alt="@bflad" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/radeksimko/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hashicorp/terraform-provider-scaffolding-framework/commits/main/.github/workflows/release.yml?author=radeksimko">
+      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/287584?s=48&amp;v=4" width="24" height="24" alt="@radeksimko" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/jon-ruckwood/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hashicorp/terraform-provider-scaffolding-framework/commits/main/.github/workflows/release.yml?author=jon-ruckwood">
+      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/435298?s=48&amp;v=4" width="24" height="24" alt="@jon-ruckwood" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/austinvalle/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hashicorp/terraform-provider-scaffolding-framework/commits/main/.github/workflows/release.yml?author=austinvalle">
+      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/8650838?s=48&amp;v=4" width="24" height="24" alt="@austinvalle" /> 
+</a>
+</span>
+
+  </div>
+</div>
 
 
 
@@ -1332,25 +1457,25 @@
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
-      <include-fragment src="/hashicorp/terraform-provider-scaffolding-framework/codeowners-badge/main/.goreleaser.yml"></include-fragment>
+      <include-fragment src="/hashicorp/terraform-provider-scaffolding-framework/codeowners-badge/main/.github/workflows/release.yml"></include-fragment>
 
-      60 lines (60 sloc)
+      41 lines (38 sloc)
       <span class="file-info-divider"></span>
-    1.75 KB
+    1.37 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/hashicorp/terraform-provider-scaffolding-framework/raw/be04f087501bd4bac376a608fbb906519d450905/.goreleaser.yml" href="/hashicorp/terraform-provider-scaffolding-framework/raw/main/.goreleaser.yml" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/hashicorp/terraform-provider-scaffolding-framework/blame/be04f087501bd4bac376a608fbb906519d450905/.goreleaser.yml" href="/hashicorp/terraform-provider-scaffolding-framework/blame/main/.goreleaser.yml" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/hashicorp/terraform-provider-scaffolding-framework/raw/be04f087501bd4bac376a608fbb906519d450905/.github/workflows/release.yml" href="/hashicorp/terraform-provider-scaffolding-framework/raw/main/.github/workflows/release.yml" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/hashicorp/terraform-provider-scaffolding-framework/blame/be04f087501bd4bac376a608fbb906519d450905/.github/workflows/release.yml" href="/hashicorp/terraform-provider-scaffolding-framework/blame/main/.github/workflows/release.yml" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/hashicorp/terraform-provider-scaffolding-framework/edit/main/.goreleaser.yml" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QPpUa9Vi-ZZdoZpxz67J_Sf3b7EhM4XUL9vASsS36q3P63wyZzYgIotMSBhEpkhk4eiBFdv4cEw00-r-fuisAQ" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/hashicorp/terraform-provider-scaffolding-framework/edit/main/.github/workflows/release.yml" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sgYGtffkELyRZpM6iBUuVjAh74GUugplTB6k9GHkS_0EioG808B96T4LB1WIO203V5BoPPl9Na-fKDck-1BFuA" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -1360,7 +1485,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/hashicorp/terraform-provider-scaffolding-framework/edit/main/.goreleaser.yml" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dv2hb4xdwzxERN9rEEWZQkXTDcZbiPChHftWnZ0qBb357Ik2PgkaiJKpDQKbTRjbg8zjYqFDBTkG83wpJ3VDEQ" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/hashicorp/terraform-provider-scaffolding-framework/edit/main/.github/workflows/release.yml" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="n_nn5y2Ee58scRyVRZV92J6s0_b4qKlzVN1woN3Kp3cpdWDuCaAWyoMciPpFuz65-R1US5VvlrmH6-NwR36pMg" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -1411,14 +1536,14 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/hashicorp/terraform-provider-scaffolding-framework/raw/main/.goreleaser.yml">
+            <a class="dropdown-item" href="/hashicorp/terraform-provider-scaffolding-framework/raw/main/.github/workflows/release.yml">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/hashicorp/terraform-provider-scaffolding-framework/blame/main/.goreleaser.yml">
+              <a class="dropdown-item" href="/hashicorp/terraform-provider-scaffolding-framework/blame/main/.github/workflows/release.yml">
                 View blame
               </a>
             </li>
@@ -1457,246 +1582,173 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="YAML" data-tagsearch-path=".goreleaser.yml">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="YAML" data-tagsearch-path=".github/workflows/release.yml">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Visit https://goreleaser.com for documentation on how to customize this</span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Terraform Provider release workflow.</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> behavior.</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">name</span>: <span class="pl-s">Release</span></td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">before</span>:</td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">hooks</span>:</td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> This GitHub action creates a release when a tag that matches the pattern</span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">#</span> this is just an example and not a requirement for provider building/publishing</span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> &quot;v*&quot; (e.g. v0.1.0) is created.</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">go mod tidy</span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">on</span>:</td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">builds</span>:</td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">push</span>:</td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">- <span class="pl-ent">env</span>:</td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">tags</span>:</td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">#</span> goreleaser does not work with CGO, it could also complicate</span></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">      - <span class="pl-s"><span class="pl-pds">&#39;</span>v*<span class="pl-pds">&#39;</span></span></td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">#</span> usage by users in CI/CD systems like Terraform Cloud where</span></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">#</span> they are unable to install libraries.</span></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Releases need permissions to read and write the repository contents.</span></td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">CGO_ENABLED=0</span></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> GitHub considers creating releases and uploading assets as writing contents.</span></td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">mod_timestamp</span>: <span class="pl-s"><span class="pl-pds">&#39;</span>{{ .CommitTimestamp }}<span class="pl-pds">&#39;</span></span></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">permissions</span>:</td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">flags</span>:</td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">contents</span>: <span class="pl-s">write</span></td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">-trimpath</span></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">ldflags</span>:</td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">jobs</span>:</td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s"><span class="pl-pds">&#39;</span>-s -w -X main.version={{.Version}} -X main.commit={{.Commit}}<span class="pl-pds">&#39;</span></span></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">goreleaser</span>:</td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">goos</span>:</td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">runs-on</span>: <span class="pl-s">ubuntu-latest</span></td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">freebsd</span></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">steps</span>:</td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">windows</span></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">      - <span class="pl-ent">uses</span>: <span class="pl-s">actions/checkout@24cb9080177205b6e8c946b17badbe402adc938f </span><span class="pl-c"><span class="pl-c">#</span> v3.4.0</span></td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">linux</span></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">        <span class="pl-ent">with</span>:</td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">darwin</span></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">          <span class="pl-c"><span class="pl-c">#</span> Allow goreleaser to access older tag information.</span></td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">goarch</span>:</td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">          <span class="pl-ent">fetch-depth</span>: <span class="pl-c1">0</span></td>
         </tr>
         <tr>
           <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">amd64</span></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">      - <span class="pl-ent">uses</span>: <span class="pl-s">actions/setup-go@4d34df0c2316fe8122ab82dc22947d607c0c91f9 </span><span class="pl-c"><span class="pl-c">#</span> v4.0.0</span></td>
         </tr>
         <tr>
           <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s"><span class="pl-pds">&#39;</span>386<span class="pl-pds">&#39;</span></span></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">        <span class="pl-ent">with</span>:</td>
         </tr>
         <tr>
           <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">arm</span></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">          <span class="pl-ent">go-version-file</span>: <span class="pl-s"><span class="pl-pds">&#39;</span>go.mod<span class="pl-pds">&#39;</span></span></td>
         </tr>
         <tr>
           <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">arm64</span></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">          <span class="pl-ent">cache</span>: <span class="pl-c1">true</span></td>
         </tr>
         <tr>
           <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">ignore</span>:</td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">      - <span class="pl-ent">name</span>: <span class="pl-s">Import GPG key</span></td>
         </tr>
         <tr>
           <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">    - <span class="pl-ent">goos</span>: <span class="pl-s">darwin</span></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">        <span class="pl-ent">uses</span>: <span class="pl-s">crazy-max/ghaction-import-gpg@111c56156bcc6918c056dbef52164cfa583dc549 </span><span class="pl-c"><span class="pl-c">#</span> v5.2.0</span></td>
         </tr>
         <tr>
           <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">      <span class="pl-ent">goarch</span>: <span class="pl-s"><span class="pl-pds">&#39;</span>386<span class="pl-pds">&#39;</span></span></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">        <span class="pl-ent">id</span>: <span class="pl-s">import_gpg</span></td>
         </tr>
         <tr>
           <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">binary</span>: <span class="pl-s"><span class="pl-pds">&#39;</span>{{ .ProjectName }}_v{{ .Version }}<span class="pl-pds">&#39;</span></span></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">        <span class="pl-ent">with</span>:</td>
         </tr>
         <tr>
           <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">archives</span>:</td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">          <span class="pl-ent">gpg_private_key</span>: <span class="pl-s">${{ secrets.GPG_PRIVATE_KEY }}</span></td>
         </tr>
         <tr>
           <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line">- <span class="pl-ent">format</span>: <span class="pl-s">zip</span></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">          <span class="pl-ent">passphrase</span>: <span class="pl-s">${{ secrets.PASSPHRASE }}</span></td>
         </tr>
         <tr>
           <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">name_template</span>: <span class="pl-s"><span class="pl-pds">&#39;</span>{{ .ProjectName }}_{{ .Version }}_{{ .Os }}_{{ .Arch }}<span class="pl-pds">&#39;</span></span></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">      - <span class="pl-ent">name</span>: <span class="pl-s">Run GoReleaser</span></td>
         </tr>
         <tr>
           <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">checksum</span>:</td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">        <span class="pl-ent">uses</span>: <span class="pl-s">goreleaser/goreleaser-action@f82d6c1c344bcacabba2c841718984797f664a6b </span><span class="pl-c"><span class="pl-c">#</span> v4.2.0</span></td>
         </tr>
         <tr>
           <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">extra_files</span>:</td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">        <span class="pl-ent">with</span>:</td>
         </tr>
         <tr>
           <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
-          <td id="LC37" class="blob-code blob-code-inner js-file-line">    - <span class="pl-ent">glob</span>: <span class="pl-s"><span class="pl-pds">&#39;</span>terraform-registry-manifest.json<span class="pl-pds">&#39;</span></span></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">          <span class="pl-ent">args</span>: <span class="pl-s">release --clean</span></td>
         </tr>
         <tr>
           <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line">      <span class="pl-ent">name_template</span>: <span class="pl-s"><span class="pl-pds">&#39;</span>{{ .ProjectName }}_{{ .Version }}_manifest.json<span class="pl-pds">&#39;</span></span></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">        <span class="pl-ent">env</span>:</td>
         </tr>
         <tr>
           <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">name_template</span>: <span class="pl-s"><span class="pl-pds">&#39;</span>{{ .ProjectName }}_{{ .Version }}_SHA256SUMS<span class="pl-pds">&#39;</span></span></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">          <span class="pl-c"><span class="pl-c">#</span> GitHub sets the GITHUB_TOKEN secret automatically.</span></td>
         </tr>
         <tr>
           <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
-          <td id="LC40" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">algorithm</span>: <span class="pl-s">sha256</span></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">          <span class="pl-ent">GITHUB_TOKEN</span>: <span class="pl-s">${{ secrets.GITHUB_TOKEN }}</span></td>
         </tr>
         <tr>
           <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
-          <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">signs</span>:</td>
-        </tr>
-        <tr>
-          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
-          <td id="LC42" class="blob-code blob-code-inner js-file-line">  - <span class="pl-ent">artifacts</span>: <span class="pl-s">checksum</span></td>
-        </tr>
-        <tr>
-          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
-          <td id="LC43" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">args</span>:</td>
-        </tr>
-        <tr>
-          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
-          <td id="LC44" class="blob-code blob-code-inner js-file-line">      <span class="pl-c"><span class="pl-c">#</span> if you are using this in a GitHub action or some other automated pipeline, you </span></td>
-        </tr>
-        <tr>
-          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
-          <td id="LC45" class="blob-code blob-code-inner js-file-line">      <span class="pl-c"><span class="pl-c">#</span> need to pass the batch flag to indicate its not interactive.</span></td>
-        </tr>
-        <tr>
-          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
-          <td id="LC46" class="blob-code blob-code-inner js-file-line">      - <span class="pl-s"><span class="pl-pds">&quot;</span>--batch<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
-          <td id="LC47" class="blob-code blob-code-inner js-file-line">      - <span class="pl-s"><span class="pl-pds">&quot;</span>--local-user<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
-          <td id="LC48" class="blob-code blob-code-inner js-file-line">      - <span class="pl-s"><span class="pl-pds">&quot;</span>{{ .Env.GPG_FINGERPRINT }}<span class="pl-pds">&quot;</span></span> <span class="pl-c"><span class="pl-c">#</span> set this environment variable for your signing key</span></td>
-        </tr>
-        <tr>
-          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
-          <td id="LC49" class="blob-code blob-code-inner js-file-line">      - <span class="pl-s"><span class="pl-pds">&quot;</span>--output<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
-          <td id="LC50" class="blob-code blob-code-inner js-file-line">      - <span class="pl-s"><span class="pl-pds">&quot;</span>${signature}<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
-          <td id="LC51" class="blob-code blob-code-inner js-file-line">      - <span class="pl-s"><span class="pl-pds">&quot;</span>--detach-sign<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
-          <td id="LC52" class="blob-code blob-code-inner js-file-line">      - <span class="pl-s"><span class="pl-pds">&quot;</span>${artifact}<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
-          <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">release</span>:</td>
-        </tr>
-        <tr>
-          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
-          <td id="LC54" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">extra_files</span>:</td>
-        </tr>
-        <tr>
-          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
-          <td id="LC55" class="blob-code blob-code-inner js-file-line">    - <span class="pl-ent">glob</span>: <span class="pl-s"><span class="pl-pds">&#39;</span>terraform-registry-manifest.json<span class="pl-pds">&#39;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
-          <td id="LC56" class="blob-code blob-code-inner js-file-line">      <span class="pl-ent">name_template</span>: <span class="pl-s"><span class="pl-pds">&#39;</span>{{ .ProjectName }}_{{ .Version }}_manifest.json<span class="pl-pds">&#39;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
-          <td id="LC57" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">#</span> If you want to manually examine the release before its live, uncomment this line:</span></td>
-        </tr>
-        <tr>
-          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
-          <td id="LC58" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">#</span> draft: true</span></td>
-        </tr>
-        <tr>
-          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
-          <td id="LC59" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">changelog</span>:</td>
-        </tr>
-        <tr>
-          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
-          <td id="LC60" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">skip</span>: <span class="pl-c1">true</span></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line">          <span class="pl-ent">GPG_FINGERPRINT</span>: <span class="pl-s">${{ steps.import_gpg.outputs.fingerprint }}</span></td>
         </tr>
   </table>
 </div>
@@ -1722,7 +1774,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/hashicorp/terraform-provider-scaffolding-framework/blame/be04f087501bd4bac376a608fbb906519d450905/.goreleaser.yml">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/hashicorp/terraform-provider-scaffolding-framework/blame/be04f087501bd4bac376a608fbb906519d450905/.github/workflows/release.yml">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/hashicorp/terraform-provider-scaffolding-framework/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
